@@ -27,7 +27,7 @@ Também inclui visualizações interativas que facilitam a análise dos dados e 
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Python  
 - Streamlit  
