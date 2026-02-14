@@ -1,11 +1,11 @@
-# 📊 Dashboard de Análise de Salários na Área de Dados
+# Dashboard de Análise de Salários na Área de Dados
 
 ## 🧾 Resumo
 Dashboard interativo desenvolvido em Python para análise de salários na área de dados, utilizando Streamlit, Pandas e Plotly. A aplicação permite explorar dados salariais por meio de filtros dinâmicos e visualizações interativas, facilitando a análise de tendências e características do mercado de trabalho em dados.
 
 ---
 
-## 📖 Sobre o projeto
+## Sobre o projeto
 
 Este projeto foi desenvolvido como parte da **Imersão de Python com Dados da Alura**, com o objetivo de aplicar conceitos de análise de dados e desenvolvimento de dashboards interativos utilizando Python.
 
@@ -36,7 +36,7 @@ Também inclui visualizações interativas que facilitam a análise dos dados e 
 
 ---
 
-## 📊 Funcionalidades
+## Funcionalidades
 
 - Filtros interativos na barra lateral  
 - Exibição de métricas principais (KPIs)  
@@ -48,7 +48,7 @@ Também inclui visualizações interativas que facilitam a análise dos dados e 
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Este projeto teve como objetivo consolidar conhecimentos em:
 
@@ -60,7 +60,7 @@ Este projeto teve como objetivo consolidar conhecimentos em:
 
 ---
 
-## 🚀 Aprendizados
+## Aprendizados
 
 Durante o desenvolvimento deste projeto, foram aplicados conceitos importantes como:
 
